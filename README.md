@@ -10,7 +10,7 @@ A simple notification panel with a sidebar menu built using HTML, CSS, and vanil
 
 ## Preview
 
-![Notification Panel Preview](preview.png)
+![Notification Panel Preview](Preview.png)
 
 ## Setup
 
